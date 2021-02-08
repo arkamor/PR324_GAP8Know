@@ -1,0 +1,1 @@
+source /home/user/gap_sdk/sourceme.sh
